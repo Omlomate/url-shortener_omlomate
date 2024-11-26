@@ -13,7 +13,7 @@ A backend service to shorten URLs, retrieve original URLs, and track usage stati
 ---
 
 ## Live Deployment
-🚀 **Hosted Application**: [URL Shortener API](https://url-shortener-omlomate-9.onrender.com/)
+🚀 **Hosted Application**: [URL Shortener API](https://url-shortener-omlomate-11.onrender.com/)
 
 ---
 
@@ -64,7 +64,7 @@ A backend service to shorten URLs, retrieve original URLs, and track usage stati
 **Response**:
 ```json
 {
-  "shortUrl": "http://localhost:3000/abcd1234"
+  "shortUrl": "abcd1234"
 }
 ```
 
