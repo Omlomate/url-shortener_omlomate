@@ -13,7 +13,7 @@ A backend service to shorten URLs, retrieve original URLs, and track usage stati
 ---
 
 ## Live Deployment
-🚀 **Hosted Application**: [URL Shortener API](https://your-deployed-url.com)
+🚀 **Hosted Application**: [URL Shortener API](https://url-shortener-omlomate-9.onrender.com/)
 
 ---
 
@@ -28,7 +28,7 @@ A backend service to shorten URLs, retrieve original URLs, and track usage stati
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/url-shortener-api.git
+   git clone https://github.com/Omlomate/url-shortener_omlomate.git
    cd url-shortener-api
    ```
 
@@ -82,13 +82,3 @@ A backend service to shorten URLs, retrieve original URLs, and track usage stati
   "lastAccessed": "2024-11-26T12:34:56Z"
 }
 ```
-
----
-
-## Documentation
-See the full API documentation [here](https://your-deployed-url.com/docs).
-
----
-
-## License
-This project is licensed under the MIT License.

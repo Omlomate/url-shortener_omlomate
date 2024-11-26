@@ -12,7 +12,7 @@ exports.shortenUrl = async (req, res) => {
     shortId,
   });
 
-  res.status(201).json({ shortUrl: `${process.env.BASE_URL}/${shortId}` });
+  res.status(201).json({ shortUrl: `${shortId}` });
 };
 
 exports.redirectUrl = async (req, res) => {
